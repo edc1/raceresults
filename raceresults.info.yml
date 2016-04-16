@@ -1,0 +1,6 @@
+name: Race Results Module
+description: Provides functionaility to manage race results in Drupal.
+package: Windmilers
+
+type: module
+core: 8.x
