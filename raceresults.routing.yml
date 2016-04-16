@@ -1,0 +1,7 @@
+raceresults.content:
+  path: '/raceresults'
+  defaults:
+    _controller: '\Drupal\raceresults\Controller\RaceResultsController::content'
+    _title: 'Race Results'
+  requirements:
+    _permission: 'access content'
