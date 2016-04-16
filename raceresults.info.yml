@@ -4,3 +4,9 @@ package: Windmilers
 
 type: module
 core: 8.x
+
+dependencies:
+  - datetime:datetime
+  - drupal:views
+
+version: 3.0.0

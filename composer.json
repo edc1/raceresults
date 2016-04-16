@@ -1,0 +1,13 @@
+{
+  "name": "drupal/raceresults",
+  "description": "Provides functionaility to manage race results in Drupal.",
+  "type": "drupal-module",
+  "homepage": "https://drupal.org/project/raceresults",
+  "authors": [
+    {
+      "name": "Emlyn Christie (edc1)",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+}
