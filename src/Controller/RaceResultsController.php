@@ -17,5 +17,3 @@ class RaceResultsController extends ControllerBase {
     );
   }
 }
-
-?>
